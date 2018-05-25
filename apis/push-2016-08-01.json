@@ -260,6 +260,9 @@
 					"AndroidExtParameters": {
 						"type": "string"
 					},
+					"AndroidNotificationChannel": {
+						"type": "string"
+					},
 					"iOSApnsEnv": {
 						"type": "string"
 					},
