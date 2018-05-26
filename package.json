@@ -1,5 +1,5 @@
 {
-  "name": "aliyun-sdk",
+  "name": "aliyun-sdk-node",
   "description": "Aliyun SDK for JavaScript",
   "version": "1.11.6",
   "author": {
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aliyun-UED/aliyun-sdk-js.git"
+    "url": "git@github.com:phris/aliyun-sdk-js.git"
   },
   "bugs": {
     "url": "https://github.com/aliyun-UED/aliyun-sdk-js/issues",

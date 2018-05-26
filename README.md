@@ -1,9 +1,10 @@
+***官方sdk基础上移动推送添加AndroidNotificationChannel,适配Android8.0以上***
 ## 安装
 
 ### Node.js 安装
 
 ```sh
-npm install aliyun-sdk
+npm install aliyun-sdk-node
 ```
 
 ### 浏览器端安装
